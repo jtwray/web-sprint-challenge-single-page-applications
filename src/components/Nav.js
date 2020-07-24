@@ -1,10 +1,11 @@
 import React from "react";
+import { NavLink } from "react-router-dom";
 
 export const Nav = () => {
   return (
-    <img
-      src="../../Assets/Pizza.jpg"
-      alt="A large pizza with thin crust and all the toppings!"
-    />
+    <div>
+      <NavLink to="/">Home</NavLink>
+      <NavLink to="/help">Help</NavLink>
+    </div>
   );
 };
