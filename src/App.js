@@ -5,7 +5,11 @@ import {Nav} from "./components/Nav"
 import {Hero} from "./components/Hero"
 import {Home} from "./components/Home"
 import {Form} from "./components/Form"
+import './index.css'
+
+
 const App = () => {
+
   return (
     <>
       
