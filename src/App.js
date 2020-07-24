@@ -8,9 +8,9 @@ import {Form} from "./components/Form"
 const App = () => {
   return (
     <>
-      <title>
+      
         <h1>Lambda Eats</h1>
-      </title>
+      
       <section id="headerBox">
         <HeaderText /> <Nav />
       </section>
