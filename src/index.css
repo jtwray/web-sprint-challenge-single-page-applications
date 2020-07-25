@@ -43,7 +43,7 @@ body{
   font-size: 3rem;
   text-align: center;
   font-weight: 200;
-  text-shadow: 1px 3px 2px black;
+  text-shadow: 1px 3px 2px rgba(0, 0, 0, 0.5);
   margin-top: 0pt;}
 #heroBox {
   width: 100%;
